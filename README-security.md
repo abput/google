@@ -5,9 +5,6 @@
 - [Code Auditing](#code-auditing)
 - [Reverse Engineering](#reverse-engineering)
 - [Fuzzing and Exploitation](#fuzzing-and-exploitation)
-
----------------- Everything below this point is optional ----------------
-
 - [ETC](#etc)
 
 ---
