@@ -5,6 +5,9 @@
 - [Code Auditing](#code-auditing)
 - [Reverse Engineering](#reverse-engineering)
 - [Fuzzing and Exploitation](#fuzzing-and-exploitation)
+
+---------------- Everything below this point is optional ----------------
+
 - [ETC](#etc)
 
 ---
@@ -60,8 +63,23 @@
     - [Exploitation-1](https://vimeo.com/16298629)
     - [Exploitation-2](https://vimeo.com/16304711)
 
----------------- Everything below this point is optional ----------------
+Keep learning.
 
+You're never really done.
+
+---
+
+    *****************************************************************************************************
+    *****************************************************************************************************
+
+    Everything below this point is optional. These are my recommendations.
+    By studying these, you'll get greater exposure to more Security concepts, and will be better prepared for
+    any Security related job.
+
+    *****************************************************************************************************
+    *****************************************************************************************************
+
+---
 ## ETC
 - [ ] [Windows Internals (video)](https://vimeo.com/49347561)
 - [ ] [Vulnerability Analysis (video)](https://vimeo.com/49284329)
