@@ -1,4 +1,4 @@
-# Google Interview University (Security Edition)
+# Google Interview (Security Edition)
 
 ## Table of Contents
 
