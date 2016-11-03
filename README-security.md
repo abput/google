@@ -53,7 +53,7 @@
         - Coverage of heap and format string exploition (with demos), as well as exploit mitigations (ASLR, NX/DEP, stack cookies, EMET, etc...)
     - [part 6](https://youtu.be/JK0BsefRdJ0)
         - vulnerability examples
-- [X] ISIS Labs (Exploiting 101):
+- [ ] ISIS Labs (Exploiting 101):
     - [Memory Corruption 1](http://vimeo.com/31348274)
     - [Memory Corruption 2](https://vimeo.com/31831062)
     - [Fuzzing](https://vimeo.com/7574602)
