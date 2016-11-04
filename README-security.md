@@ -19,7 +19,7 @@
 - [X] [Offensive Computer Security - Source Code Auditing (video)](https://youtu.be/MnmX911MqMU)
 
 ## Reverse Engineering
-- [ ] Open Security Training - Introductory Intel x86
+- [X] Open Security Training - Introductory Intel x86
     - [videos](https://www.youtube.com/playlist?list=PL038BE01D3BAEFDB0)
     - [slides](http://opensecuritytraining.info/IntroX86_files/IntroX86_all_materials_with_pdf_1.zip)
 - [X] Offensive Computer Security - Reverse Engineering:
