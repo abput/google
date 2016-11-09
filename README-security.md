@@ -114,6 +114,6 @@ You're never really done.
     - [slides](http://opensecuritytraining.info/Keylogging_files/TheAdvernturesOfAKeystroke.pptx)
     - [etc](http://opensecuritytraining.info/Keylogging_files/Materials.rar)
         - RAR file of some applications and sample keyloggers. Password is “infected”
-- [ ] Corelan - [Exploit writing tutorial](https://www.corelan.be/index.php/articles/)
-- [ ] Security Sift - [Windows Exploit Development](http://www.securitysift.com/windows-exploit-development-part-1-basics/)
-- [ ] fuzzysecurity - [Tutorial Series](http://www.fuzzysecurity.com/tutorials.html)
+- [ ] Corelan [Exploit writing tutorial](https://www.corelan.be/index.php/articles/)
+- [ ] Security Sift [Windows Exploit Development](http://www.securitysift.com/windows-exploit-development-part-1-basics/)
+- [ ] fuzzysecurity [Tutorial Series](http://www.fuzzysecurity.com/tutorials.html)
