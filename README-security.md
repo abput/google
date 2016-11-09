@@ -32,12 +32,12 @@
 - [X] [Dynamic Reverse Engineering (video)](https://vimeo.com/30594548)
 - [ ] OST - Introductory Intel x64
     - [slides](http://opensecuritytraining.info/IntroX86-64_files/IntroX86-64_AllMaterials_PDF_8-5-2015.zip)
-- [ ] OST - Life of Binaries
-    - [videos](https://www.youtube.com/playlist?list=PLUFkSN0XLZ-n_Na6jwqopTt1Ki57vMIc3)
-    - [slides](http://opensecuritytraining.info/LifeOfBinaries_files/2012_LoB_all_1.zip)
 - [ ] OST - Introduction to Reverse Engineering
     - [videos](https://www.youtube.com/playlist?list=PLUFkSN0XLZ-nXcDG89jS9iqKBnNHmz7Qw)
     - [slides](http://opensecuritytraining.info/IntroductionToReverseEngineering_files/reclass_2014_1.zip)
+- [ ] OST - Life of Binaries
+    - [videos](https://www.youtube.com/playlist?list=PLUFkSN0XLZ-n_Na6jwqopTt1Ki57vMIc3)
+    - [slides](http://opensecuritytraining.info/LifeOfBinaries_files/2012_LoB_all_1.zip)
 - [ ] OST - Introduction To Software Exploits
     - [videos](http://www.youtube.com/playlist?list=PL96AB65DFCE02EE3E)
     - [slides](http://opensecuritytraining.info/Exploits1_files/SoftwareExploits_public.pdf)
