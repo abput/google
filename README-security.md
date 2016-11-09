@@ -47,6 +47,8 @@
 - [ ] OST - Intermediate Intel x86
     - [videos](http://www.youtube.com/playlist?list=PL8F8D45D6C1FFD177)
     - [slides](http://opensecuritytraining.info/ReverseEngineeringMalware_files/malware_analysis_all_materials_2014-09-08_1.zip)
+- [ ] [Modern Binary Exploitation by RPISEC](https://github.com/RPISEC/MBE)
+- [ ] [Malware Analysis by RPISEC](https://github.com/RPISEC/Malware)
 
 ## Fuzzing and Exploitation
 - [ ] Offensive Computer Security:
