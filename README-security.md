@@ -35,9 +35,41 @@
 - [ ] Open Security Training - Life of Binaries
     - [videos](https://www.youtube.com/playlist?list=PLUFkSN0XLZ-n_Na6jwqopTt1Ki57vMIc3)
     - [slides](http://opensecuritytraining.info/LifeOfBinaries_files/2012_LoB_all_1.zip)
-- [ ] Open Security Training - Reverse Engineering
+- [ ] Open Security Training - Introduction to Reverse Engineering
     - [videos](https://www.youtube.com/playlist?list=PLUFkSN0XLZ-nXcDG89jS9iqKBnNHmz7Qw)
     - [slides](http://opensecuritytraining.info/IntroductionToReverseEngineering_files/reclass_2014_1.zip)
+- [ ] Open Security Training - Introduction To Software Exploits
+    - [videos](http://www.youtube.com/playlist?list=PL96AB65DFCE02EE3E)
+    - [slides](http://opensecuritytraining.info/Exploits1_files/SoftwareExploits_public.pdf)
+    - [codes](http://opensecuritytraining.info/Exploits1_files/exploitsclass.tgz)
+    - [vm](http://opensecuritytraining.info/slack12.zip)
+        - zip password = “Exploits1”, accounts are student/student and root/root
+- [ ] Open Security Training - Malware Dynamic Analysis
+    - [videos](https://www.youtube.com/playlist?list=PLUFkSN0XLZ-kqYbGpY4Gt_VATd4ytQg-Z)
+    - [slides](http://opensecuritytraining.info/MalwareDynamicAnalysis_files/MalwareDynamicAnalysis_All_PPT_20140918_1.zip)
+- [ ] Open Security Training - Reverse Engineering Malware
+    - [videos](https://www.youtube.com/playlist?list=PLUFkSN0XLZ-kwukmQOAgCZ08C5REoZElt)
+    - [slides](http://opensecuritytraining.info/ReverseEngineeringMalware_files/malware_analysis_all_materials_2014-09-08_1.zip)
+- [ ] Open Security Training - Exploitation in the Windows Environment
+    - [videos](https://www.youtube.com/playlist?list=PL9F9E52502327B1CA)
+    - [slides](http://opensecuritytraining.info/Exploits2_files/exploits2public-8-25-2012.pptx)
+    - [codes](http://opensecuritytraining.info/Exploits2_files/exploits2classmaterial.password%3Dpassword.zip)
+        - password = password
+- [ ] Open Security Training - Intermediate Intel x86
+    - [videos](http://www.youtube.com/playlist?list=PL8F8D45D6C1FFD177)
+    - [slides](http://opensecuritytraining.info/ReverseEngineeringMalware_files/malware_analysis_all_materials_2014-09-08_1.zip)
+- [ ] Open Security Training - Rootkits
+    - [videos](http://www.youtube.com/playlist?list=PLF58FB7BCB20ED11A)
+    - [slides](http://opensecuritytraining.info/Rootkits_files/all_materials_with_ppt_1.zip)
+    - [poc rootkits](http://opensecuritytraining.info/Rootkits_files/PoC_Rootkits_And_Detectors-infected_1.zip)
+        - WARNING! password = “infected” because AV *will* flag on some of these files. 
+    - [rootkit detectors](http://opensecuritytraining.info/Rootkits_files/%20%20DETECTION-notinfected_1.zip)
+        - Password = “notinfected”, but my AV doesn’t like flister, so yours might not either.
+- [ ] Open Security Training - The Adventures of a Keystroke
+    - [videos](https://www.youtube.com/playlist?list=PLUFkSN0XLZ-kwukmQOAgCZ08C5REoZElt)
+    - [slides](http://opensecuritytraining.info/Keylogging_files/TheAdvernturesOfAKeystroke.pptx)
+    - [etc](http://opensecuritytraining.info/Keylogging_files/Materials.rar)
+        - RAR file of some applications and sample keyloggers. Password is “infected”
 
 ## Fuzzing and Exploitation
 - [ ] Offensive Computer Security:
