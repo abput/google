@@ -30,7 +30,7 @@
     - [part 2](https://vimeo.com/7177233)
     - [part 3](https://vimeo.com/7238091)
 - [X] [Dynamic Reverse Engineering (video)](https://vimeo.com/30594548)
-- [ ] OST - Introductory Intel x64
+- [X] OST - Introductory Intel x64
     - [slides](http://opensecuritytraining.info/IntroX86-64_files/IntroX86-64_AllMaterials_PDF_8-5-2015.zip)
 - [ ] OST - Introduction to Reverse Engineering
     - [videos](https://www.youtube.com/playlist?list=PLUFkSN0XLZ-nXcDG89jS9iqKBnNHmz7Qw)
