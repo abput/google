@@ -47,7 +47,9 @@
 - [ ] OST - Intermediate Intel x86
     - [videos](http://www.youtube.com/playlist?list=PL8F8D45D6C1FFD177)
     - [slides](http://opensecuritytraining.info/ReverseEngineeringMalware_files/malware_analysis_all_materials_2014-09-08_1.zip)
-- [ ] [Modern Binary Exploitation by RPISEC](https://github.com/RPISEC/MBE)
+- [ ] [Modern Binary Exploitation by RPISEC]
+    - [webpage](http://security.cs.rpi.edu/courses/binexp-spring2015/)
+    - [resources](https://github.com/RPISEC/MBE)
 - [ ] [Malware Analysis by RPISEC](https://github.com/RPISEC/Malware)
 
 ## Fuzzing and Exploitation
@@ -124,3 +126,4 @@ You're never really done.
 - [ ] Smash the Stack [Wargames](http://smashthestack.org/)
 - [ ] Tentacoloviola Fuzzing [Tutorials](https://sites.google.com/site/tentacoloviola/)
 - [ ] Another Greate but old [Resource](http://www.myne-us.com/2010/08/from-0x90-to-0x4c454554-journey-into.html)
+- [ ] Dr.Fu's Security Blog [Malware Tuts](http://fumalwareanalysis.blogspot.sg/p/malware-analysis-tutorials-reverse.html)
