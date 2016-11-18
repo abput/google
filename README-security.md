@@ -5,6 +5,7 @@
 - [Code Auditing](#code-auditing)
 - [Reverse Engineering](#reverse-engineering)
 - [Fuzzing and Exploitation](#fuzzing-and-exploitation)
+- [Mobile Security](#mobile-security)
 
 ---------------- Everything below this point is optional ----------------
 
@@ -89,6 +90,10 @@
     - [codes](http://opensecuritytraining.info/Exploits2_files/exploits2classmaterial.password%3Dpassword.zip)
         - password = password
 
+## Mobile Security
+- [ ] Android [Forensics & Security Testing](http://opensecuritytraining.info/AndroidForensics.html)
+- [ ] Hacking Mobile Devices [CNIT 128](https://samsclass.info/128/128_S15.shtml)
+
 Keep learning.
 
 You're never really done.
@@ -120,6 +125,9 @@ You're never really done.
     - [slides](http://opensecuritytraining.info/Keylogging_files/TheAdvernturesOfAKeystroke.pptx)
     - [etc](http://opensecuritytraining.info/Keylogging_files/Materials.rar)
         - RAR file of some applications and sample keyloggers. Password is “infected”
+- [ ] Rensselaer Polytechnic Institute [Hardware Reverse Engineering](http://security.cs.rpi.edu/courses/hwre-spring2014/)
+- [ ] Practical Malware Analysis [CNIT 126](https://samsclass.info/126/126_F14.shtml)
+
 
 ## Fuzzing and Exploitation Extended
 - [ ] [Vulnerability Analysis (video)](https://vimeo.com/49284329)
@@ -136,6 +144,11 @@ You're never really done.
 - [ ] Dr.Fu's Security Blog [Malware Tuts](http://fumalwareanalysis.blogspot.sg/p/malware-analysis-tutorials-reverse.html)
 - [ ] Massimiliano Tomassoli's [blog](http://expdev-kiuhnm.rhcloud.com/2015/05/11/contents/)
 - [ ] Exploit Development [CNIT 127](https://samsclass.info/127/127_F15.shtml)
+- [ ] Browser Bug Hunting [Memories of a last man standing](https://vimeo.com/109380793)
+- [ ] Coverage-based Greybox [Fuzzing as Markov Chain](https://www.comp.nus.edu.sg/%7Emboehme/paper/CCS16.pdf)
+- [ ] Awesome Fuzzing [Youtube Playlist](https://www.youtube.com/playlist?list=PLtPrYlwXDImiO_hzK7npBi4eKQQBgygLD)
+- [ ] Fuzzing [Tutorials](https://github.com/secfigo/Awesome-Fuzzing#tutorials)
+- [ ] Violent Python and [Exploit Development](https://samsclass.info/127/127_WWC_2014.shtml)
 
 ## Bug Bounty
 - [ ] Getting Started
@@ -150,3 +163,6 @@ You're never really done.
     - [Coder Bounty](http://www.coderbounty.com/)
     - [Freedom Sponsers](https://freedomsponsors.org/)
     - [FOSS Factory](http://www.fossfactory.org/)
+
+## Internet of Things
+- [ ] IoT [Awesome List](https://github.com/nebgnahz/awesome-iot-hacks)
