@@ -12,6 +12,9 @@
 - [Reverse Engineering Extended](#reverse-engineering-extended)
 - [Fuzzing and Exploitation Extended](#fuzzing-and-exploitation-extended)
 - [Bug Bounty](#bug-bounty)
+- [Internet of Things](#internet-of-things)
+- [Mobile Security Extended](#mobile-security-extended)
+- [ETC](#etc)
 
 ---
 
@@ -93,6 +96,7 @@
 ## Mobile Security
 - [ ] Android [Forensics & Security Testing](http://opensecuritytraining.info/AndroidForensics.html)
 - [ ] Hacking Mobile Devices [CNIT 128](https://samsclass.info/128/128_S15.shtml)
+- [ ] iOS Reverse Engineering [Book](https://github.com/iosre/iOSAppReverseEngineering/blob/master/iOSAppReverseEngineering.pdf)
 
 Keep learning.
 
@@ -127,6 +131,7 @@ You're never really done.
         - RAR file of some applications and sample keyloggers. Password is “infected”
 - [ ] Rensselaer Polytechnic Institute [Hardware Reverse Engineering](http://security.cs.rpi.edu/courses/hwre-spring2014/)
 - [ ] Practical Malware Analysis [CNIT 126](https://samsclass.info/126/126_F14.shtml)
+- [ ] The Legend of Random [Tutorial](https://tuts4you.com/download.php?list.97)
 
 
 ## Fuzzing and Exploitation Extended
@@ -149,6 +154,7 @@ You're never really done.
 - [ ] Awesome Fuzzing [Youtube Playlist](https://www.youtube.com/playlist?list=PLtPrYlwXDImiO_hzK7npBi4eKQQBgygLD)
 - [ ] Fuzzing [Tutorials](https://github.com/secfigo/Awesome-Fuzzing#tutorials)
 - [ ] Violent Python and [Exploit Development](https://samsclass.info/127/127_WWC_2014.shtml)
+- [ ] Windows Exploitation [Awesome List](https://github.com/enddo/awesome-windows-exploitation)
 
 ## Bug Bounty
 - [ ] Getting Started
@@ -166,3 +172,10 @@ You're never really done.
 
 ## Internet of Things
 - [ ] IoT [Awesome List](https://github.com/nebgnahz/awesome-iot-hacks)
+- [ ] Vehicle Security [Awesome List](https://github.com/jaredmichaelsmith/awesome-vehicle-security)
+
+## Mobile Security Extended
+- [ ] Android Security [Awesome List](https://github.com/ashishb/android-security-awesome)
+
+## ETC
+- [ ] Information Security [Reference](https://github.com/rmusser01/Infosec_Reference)
