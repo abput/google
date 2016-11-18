@@ -5,7 +5,12 @@
 - [Code Auditing](#code-auditing)
 - [Reverse Engineering](#reverse-engineering)
 - [Fuzzing and Exploitation](#fuzzing-and-exploitation)
-- [ETC](#etc)
+
+---------------- Everything below this point is optional ----------------
+
+- [Reverse Engineering Extended](#reverse-engineering-extended)
+- [Fuzzing and Exploitation Extended](#fuzzing-and-exploitation-extended)
+- [Bug Bounty](#bug-bounty)
 
 ---
 
@@ -101,9 +106,8 @@ You're never really done.
     *****************************************************************************************************
 
 ---
-## ETC
+## Reverse Engineering Extended
 - [ ] [Windows Internals (video)](https://vimeo.com/49347561)
-- [ ] [Vulnerability Analysis (video)](https://vimeo.com/49284329)
 - [ ] OST - Rootkits
     - [videos](http://www.youtube.com/playlist?list=PLF58FB7BCB20ED11A)
     - [slides](http://opensecuritytraining.info/Rootkits_files/all_materials_with_ppt_1.zip)
@@ -116,6 +120,9 @@ You're never really done.
     - [slides](http://opensecuritytraining.info/Keylogging_files/TheAdvernturesOfAKeystroke.pptx)
     - [etc](http://opensecuritytraining.info/Keylogging_files/Materials.rar)
         - RAR file of some applications and sample keyloggers. Password is “infected”
+
+## Fuzzing and Exploitation Extended
+- [ ] [Vulnerability Analysis (video)](https://vimeo.com/49284329)
 - [ ] Corelan [Exploit writing tutorial](https://www.corelan.be/index.php/articles/)
 - [ ] Security Sift [Windows Exploit Development](http://www.securitysift.com/windows-exploit-development-part-1-basics/)
 - [ ] fuzzysecurity [Tutorial Series](http://www.fuzzysecurity.com/tutorials.html)
@@ -127,3 +134,17 @@ You're never really done.
 - [ ] Tentacoloviola Fuzzing [Tutorials](https://sites.google.com/site/tentacoloviola/)
 - [ ] Another Greate but old [Resource](http://www.myne-us.com/2010/08/from-0x90-to-0x4c454554-journey-into.html)
 - [ ] Dr.Fu's Security Blog [Malware Tuts](http://fumalwareanalysis.blogspot.sg/p/malware-analysis-tutorials-reverse.html)
+
+## Bug Bounty
+- [ ] Getting Started
+    - [ ] How to Become a [Bounty Hunter](https://forum.bugcrowd.com/t/researcher-resources-how-to-become-a-bug-bounty-hunter/1102)
+    - [ ] Bug Bounties [101](https://whitton.io/articles/bug-bounties-101-getting-started/)
+    - [ ] Google [Bughunter University](https://sites.google.com/site/bughunteruniversity/)
+- [ ] [Write Ups and Blogs] (https://github.com/djadmin/awesome-bug-bounty#write-ups--authors)
+- [ ] Platforms
+    - [HackerOne](https://hackerone.com/)
+    - [Bugcrowd](https://bugcrowd.com/)
+    - [Bounty Source](https://www.bountysource.com/)
+    - [Coder Bounty](http://www.coderbounty.com/)
+    - [Freedom Sponsers](https://freedomsponsors.org/)
+    - [FOSS Factory](http://www.fossfactory.org/)
