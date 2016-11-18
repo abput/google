@@ -134,6 +134,8 @@ You're never really done.
 - [ ] Tentacoloviola Fuzzing [Tutorials](https://sites.google.com/site/tentacoloviola/)
 - [ ] Another Greate but old [Resource](http://www.myne-us.com/2010/08/from-0x90-to-0x4c454554-journey-into.html)
 - [ ] Dr.Fu's Security Blog [Malware Tuts](http://fumalwareanalysis.blogspot.sg/p/malware-analysis-tutorials-reverse.html)
+- [ ] Massimiliano Tomassoli's [blog](http://expdev-kiuhnm.rhcloud.com/2015/05/11/contents/)
+- [ ] Exploit Development [CNIT 127](https://samsclass.info/127/127_F15.shtml)
 
 ## Bug Bounty
 - [ ] Getting Started
