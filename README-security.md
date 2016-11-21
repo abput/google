@@ -56,9 +56,6 @@
 - [ ] OST - Intermediate Intel x86
     - [videos](http://www.youtube.com/playlist?list=PL8F8D45D6C1FFD177)
     - [slides](http://opensecuritytraining.info/ReverseEngineeringMalware_files/malware_analysis_all_materials_2014-09-08_1.zip)
-- [ ] RPISEC - Modern Binary Exploitation
-    - [webpage](http://security.cs.rpi.edu/courses/binexp-spring2015/)
-    - [resources](https://github.com/RPISEC/MBE)
 - [ ] RPISEC - [Malware Analysis](https://github.com/RPISEC/Malware)
 
 ## Fuzzing and Exploitation
@@ -81,6 +78,9 @@
     - [Fuzzing](https://vimeo.com/7574602)
     - [Exploitation-1](https://vimeo.com/16298629)
     - [Exploitation-2](https://vimeo.com/16304711)
+- [ ] RPISEC - Modern Binary Exploitation
+    - [webpage](http://security.cs.rpi.edu/courses/binexp-spring2015/)
+    - [resources](https://github.com/RPISEC/MBE)
 - [ ] OST - Introduction To Software Exploits
     - [videos](http://www.youtube.com/playlist?list=PL96AB65DFCE02EE3E)
     - [slides](http://opensecuritytraining.info/Exploits1_files/SoftwareExploits_public.pdf)
@@ -116,7 +116,7 @@ You're never really done.
 
 ---
 ## Reverse Engineering Extended
-- [ ] [Windows Internals (video)](https://vimeo.com/49347561)
+- [ ] Windows Internals [video](https://vimeo.com/49347561)
 - [ ] OST - Rootkits
     - [videos](http://www.youtube.com/playlist?list=PLF58FB7BCB20ED11A)
     - [slides](http://opensecuritytraining.info/Rootkits_files/all_materials_with_ppt_1.zip)
@@ -135,7 +135,7 @@ You're never really done.
 
 
 ## Fuzzing and Exploitation Extended
-- [ ] [Vulnerability Analysis (video)](https://vimeo.com/49284329)
+- [ ] Vulnerability Analysis [video](https://vimeo.com/49284329)
 - [ ] Corelan [Exploit writing tutorial](https://www.corelan.be/index.php/articles/)
 - [ ] Security Sift [Windows Exploit Development](http://www.securitysift.com/windows-exploit-development-part-1-basics/)
 - [ ] fuzzysecurity [Tutorial Series](http://www.fuzzysecurity.com/tutorials.html)
