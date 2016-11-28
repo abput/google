@@ -59,6 +59,12 @@
 - [ ] RPISEC - [Malware Analysis](https://github.com/RPISEC/Malware)
 
 ## Fuzzing and Exploitation
+- [ ] ISIS Labs (Exploiting 101):
+    - [Memory Corruption 1](http://vimeo.com/31348274)
+    - [Memory Corruption 2](https://vimeo.com/31831062)
+    - [Fuzzing](https://vimeo.com/7574602)
+    - [Exploitation-1](https://vimeo.com/16298629)
+    - [Exploitation-2](https://vimeo.com/16304711)
 - [ ] Offensive Computer Security:
     - [part 1](https://youtu.be/F4WC26_SpKA)
         - Coverage of Fuzzing techniques for SDL, VR, and other applications.
@@ -72,21 +78,15 @@
         - Coverage of heap and format string exploition (with demos), as well as exploit mitigations (ASLR, NX/DEP, stack cookies, EMET, etc...)
     - [part 6](https://youtu.be/JK0BsefRdJ0)
         - vulnerability examples
-- [ ] ISIS Labs (Exploiting 101):
-    - [Memory Corruption 1](http://vimeo.com/31348274)
-    - [Memory Corruption 2](https://vimeo.com/31831062)
-    - [Fuzzing](https://vimeo.com/7574602)
-    - [Exploitation-1](https://vimeo.com/16298629)
-    - [Exploitation-2](https://vimeo.com/16304711)
-- [ ] RPISEC - Modern Binary Exploitation
-    - [webpage](http://security.cs.rpi.edu/courses/binexp-spring2015/)
-    - [resources](https://github.com/RPISEC/MBE)
 - [ ] OST - Introduction To Software Exploits
     - [videos](http://www.youtube.com/playlist?list=PL96AB65DFCE02EE3E)
     - [slides](http://opensecuritytraining.info/Exploits1_files/SoftwareExploits_public.pdf)
     - [codes](http://opensecuritytraining.info/Exploits1_files/exploitsclass.tgz)
     - [vm](http://opensecuritytraining.info/slack12.zip)
         - zip password = “Exploits1”, accounts are student/student and root/root
+- [ ] RPISEC - Modern Binary Exploitation
+    - [webpage](http://security.cs.rpi.edu/courses/binexp-spring2015/)
+    - [resources](https://github.com/RPISEC/MBE)
 - [ ] OST - Exploitation in the Windows Environment
     - [videos](https://www.youtube.com/playlist?list=PL9F9E52502327B1CA)
     - [slides](http://opensecuritytraining.info/Exploits2_files/exploits2public-8-25-2012.pptx)
