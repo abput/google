@@ -49,7 +49,7 @@
 
 ---------------- Everything below this point is optional ----------------
 
-
+- [Book List](#book-list)
 - [Additional Books](#additional-books)
 - [Additional Learning](#additional-learning)
     - [Compilers](#compilers)
@@ -1258,6 +1258,91 @@ You're never really done.
     *****************************************************************************************************
 
 ---
+
+## Book List
+
+This is a shorter list than what I used. This is abbreviated to save you time.
+
+### Interview Prep
+
+- [ ] [Programming Interviews Exposed: Secrets to Landing Your Next Job, 2nd Edition](http://www.wiley.com/WileyCDA/WileyTitle/productCd-047012167X.html)
+    - answers in C++ and Java
+    - recommended in Google candidate coaching
+    - this is a good warm-up for Cracking the Coding Interview
+    - not too difficult, most problems may be easier than what you'll see in an interview (from what I've read)
+- [ ] [Cracking the Coding Interview, 6th Edition](http://www.amazon.com/Cracking-Coding-Interview-6th-Programming/dp/0984782850/)
+    - answers in Java
+    - recommended on the [Google Careers site](https://www.google.com/about/careers/how-we-hire/interview/)
+    - If you see people reference "The Google Resume", it was a book replaced by "Cracking the Coding Interview".
+
+If you have tons of extra time:
+
+- [ ] [Elements of Programming Interviews](https://www.amazon.com/Elements-Programming-Interviews-Insiders-Guide/dp/1479274836)
+    - all code is in C++, very good if you're looking to use C++ in your interview
+    - a good book on problem solving in general.
+
+### Computer Architecture
+
+If short on time:
+
+- [ ] [Write Great Code: Volume 1: Understanding the Machine](https://www.amazon.com/Write-Great-Code-Understanding-Machine/dp/1593270038)
+    - The book was published in 2004, and is somewhat outdated, but it's a terrific resource for understanding a computer in brief.
+    - The author invented HLA, so take mentions and examples in HLA with a grain of salt. Not widely used, but decent examples of what assembly looks like.
+    - These chapters are worth the read to give you a nice foundation:
+        - Chapter 2 - Numeric Representation
+        - Chapter 3 - Binary Arithmetic and Bit Operations
+        - Chapter 4 - Floating-Point Representation
+        - Chapter 5 - Character Representation
+        - Chapter 6 - Memory Organization and Access
+        - Chapter 7 - Composite Data Types and Memory Objects
+        - Chapter 9 - CPU Architecture
+        - Chapter 10 - Instruction Set Architecture
+        - Chapter 11 - Memory Architecture and Organization 
+
+If you have more time (I want this book):
+
+- [ ] [Computer Architecture, Fifth Edition: A Quantitative Approach](https://www.amazon.com/dp/012383872X/)
+    - For a richer, more up-to-date (2011), but longer treatment
+
+### Language Specific
+
+**You need to choose a language for the interview (see above).** Here are my recommendations by language. I don't have resources for all languages. I welcome additions.
+
+If you read though one of these, you should have all the data structures and algorithms knowledge you'll need to start doing coding problems. 
+**You can skip all the video lectures in this project**, unless you'd like a review.
+
+[Additional language-specific resources here.](programming-language-resources.md)
+
+### C++
+
+I haven't read these two, but they are highly rated and written by Sedgewick. He's awesome.
+
+- [ ] [Algorithms in C++, Parts 1-4: Fundamentals, Data Structure, Sorting, Searching](https://www.amazon.com/Algorithms-Parts-1-4-Fundamentals-Structure/dp/0201350882/) 
+- [ ] [Algorithms in C++ Part 5: Graph Algorithms](https://www.amazon.com/Algorithms-Part-Graph-3rd-Pt-5/dp/0201361183/)
+
+If you have a better recommendation for C++, please let me know. Looking for a comprehensive resource.
+
+### Java
+
+- [ ] [Algorithms (Sedgewick and Wayne)](https://www.amazon.com/Algorithms-4th-Robert-Sedgewick/dp/032157351X/)
+    - videos with book content (and Sedgewick!):
+        - [Algorithms I](https://www.youtube.com/user/algorithmscourses/playlists?view=50&sort=dd&shelf_id=2)
+        - [Algorithms II](https://www.youtube.com/user/algorithmscourses/playlists?shelf_id=3&view=50&sort=dd)
+
+OR:
+
+- [ ] [Data Structures and Algorithms in Java](https://www.amazon.com/Data-Structures-Algorithms-Michael-Goodrich/dp/1118771338/)
+    - by Goodrich, Tamassia, Goldwasser
+    - used as optional text for CS intro course at UC Berkeley
+    - see my book report on the Python version below. This book covers the same topics.
+
+### Python
+
+- [ ] [Data Structures and Algorithms in Python](https://www.amazon.com/Structures-Algorithms-Python-Michael-Goodrich/dp/1118290275/)
+    - by Goodrich, Tamassia, Goldwasser
+    - I loved this book. It covered everything and more.
+    - Pythonic code
+    - my glowing book report: https://googleyasheck.com/book-report-data-structures-and-algorithms-in-python/
 
 ## Additional Books
 
