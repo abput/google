@@ -136,6 +136,41 @@ You're never really done.
 
 ## Fuzzing and Exploitation Extended
 - [ ] Vulnerability Analysis [video](https://vimeo.com/49284329)
+- [ ] Hurdles for a beginner to [exploit a simple vulnerability on modern Windows](http://0xdabbad00.com/2012/12/09/hurdles-for-a-beginner-to-exploit-a-simple-vulnerability-on-modern-windows/)
+- [ ] fuzzysecurity [Tutorial Series](http://www.fuzzysecurity.com/tutorials.html):
+    - [ ] [part 1](http://www.fuzzysecurity.com/tutorials/expDev/1.html)
+        - Introduction to Exploit Development
+    - [ ] [part 2](http://www.fuzzysecurity.com/tutorials/expDev/2.html)
+        - Saved Return Pointer Overflows
+    - [ ] [part 3](http://www.fuzzysecurity.com/tutorials/expDev/3.html)
+        - Structured Exception Handler (SEH)
+    - [ ] [part 4](http://www.fuzzysecurity.com/tutorials/expDev/4.html)
+        - Egg Hunters
+    - [ ] [part 5](http://www.fuzzysecurity.com/tutorials/expDev/5.html)
+        - Unicode 0x00410041
+    - [ ] [part 6](http://www.fuzzysecurity.com/tutorials/expDev/6.html)
+        - Writing W32 shellcode
+    - [ ] [part 7](http://www.fuzzysecurity.com/tutorials/expDev/7.html)
+        - Return Oriented Programming
+    - [ ] [part 8](http://www.fuzzysecurity.com/tutorials/expDev/8.html)
+        - Spraying the Heap [Chapter 1: Vanilla EIP]
+    - [ ] [part 9](http://www.fuzzysecurity.com/tutorials/expDev/11.html)
+        - Spraying the Heap [Chapter 2: Use-After-Free]
+- [ ] Security Sift Windows Exploit Development:
+    - [ ] [part 1](http://www.securitysift.com/windows-exploit-development-part-1-basics/)
+        - basics
+    - [ ] [part 2](http://www.securitysift.com/windows-exploit-development-part-2-intro-stack-overflow/)
+        - introduction to stack overflow
+    - [ ] [part 3](http://www.securitysift.com/windows-exploit-development-part-3-changing-offsets-and-rebased-modules/)
+        - changing offsets and rebased modules
+    - [ ] [part 4](http://www.securitysift.com/windows-exploit-development-part-4-locating-shellcode-jumps/)
+        - locating shellcode jumps
+    - [ ] [part 5](http://www.securitysift.com/windows-exploit-development-part-5-locating-shellcode-egghunting)
+        - locating shellcode egghunting
+    - [ ] [part 6](http://www.securitysift.com/windows-exploit-development-part-6-seh-exploits)
+        - seh exploits
+    - [ ] [part 7](http://www.securitysift.com/windows-exploit-development-part-7-unicode-buffer-overflows)
+        - unicode buffer overflows
 - [ ] Corelan [Exploit writing tutorial](https://www.corelan.be/index.php/articles/):
     - [ ] [part 1](https://www.corelan.be/index.php/2009/07/19/exploit-writing-tutorial-part-1-stack-based-overflows/)
         - stack based overflows
@@ -187,12 +222,11 @@ You're never really done.
         - heap spray on firefox and ie10
     - [ ] [part 25](https://www.corelan.be/index.php/2013/07/02/root-cause-analysis-integer-overflows/)
         - root cause analysis integer overflow
-- [ ] fuzzysecurity [Tutorial Series](http://www.fuzzysecurity.com/tutorials.html)
+- [ ] Linux x86 [Exploit Development Series](https://sploitfun.wordpress.com/2015/06/26/linux-x86-exploit-development-tutorial-series/)
+- [ ] Violent Python and [Exploit Development](https://samsclass.info/127/127_WWC_2014.shtml)
 - [ ] IT Security Catalog [PDF List](https://www.gitbook.com/download/pdf/book/arthurgerkis/it-sec-catalog)
-- [ ] Exploit Exercises [VMs](https://exploit-exercises.com/)
 - [ ] Peach Fuzzer [Tutorials](http://community.peachfuzzer.com/v3/PeachQuickStart.html)
 - [ ] more Peach Fuzzer [Tutorials](http://www.flinkd.org/2011/07/fuzzing-with-peach-part-1/)
-- [ ] Smash the Stack [Wargames](http://smashthestack.org/)
 - [ ] Tentacoloviola Fuzzing [Tutorials](https://sites.google.com/site/tentacoloviola/)
 - [ ] Another Greate but old [Resource](http://www.myne-us.com/2010/08/from-0x90-to-0x4c454554-journey-into.html)
 - [ ] Dr.Fu's Security Blog [Malware Tuts](http://fumalwareanalysis.blogspot.sg/p/malware-analysis-tutorials-reverse.html)
@@ -200,37 +234,38 @@ You're never really done.
 - [ ] Exploit Development [CNIT 127](https://samsclass.info/127/127_F15.shtml)
 - [ ] Browser Bug Hunting [Memories of a last man standing](https://vimeo.com/109380793)
 - [ ] Coverage-based Greybox [Fuzzing as Markov Chain](https://www.comp.nus.edu.sg/%7Emboehme/paper/CCS16.pdf)
+- [ ] From A Minor Bug To Zero Day [Exploit Development](http://www.rafayhackingarticles.net/2011/07/from-minor-bug-to-zero-day-exploit.html)
+- [ ] Smashing the Stack for Fun & Profit [Revived](https://avicoder.me/2016/02/01/smashsatck-revived/)
+- [ ] Metasploit exploit development [The series Part 1](https://community.rapid7.com/community/metasploit/blog/2012/07/05/part-1-metasploit-module-development--the-series)
+- [ ] Emerging Technologies In Healthcare and [how to exploit them](http://resources.infosecinstitute.com/category/healthcare-information-security/emerging-technologies-in-healthcare/)
+- [ ] Writing Exploits for Win32 Systems from Scratch [Introduction](https://www.nccgroup.trust/uk/about-us/newsroom-and-events/blogs/2016/june/writing-exploits-for-win32-systems-from-scratch/)
+- [ ] Stack-based Buffer Overflow exploitation to shell by example:
+    - [ ] [part 1](https://desc0n0cid0.blogspot.it/2016/09/stack-based-buffer-overflow.html)
+    - [ ] [part 2](https://desc0n0cid0.blogspot.it/2016/09/stack-based-buffer-overflow_28.html)
+    - [ ] [part 3](https://desc0n0cid0.blogspot.it/2016/09/stack-based-buffer-overflow_29.html)
+    - [ ] [part 4](https://desc0n0cid0.blogspot.it/2016/10/part-4-stack-based-buffer-overflow.html)
 - [ ] Awesome Fuzzing [Youtube Playlist](https://www.youtube.com/playlist?list=PLtPrYlwXDImiO_hzK7npBi4eKQQBgygLD)
-- [ ] Fuzzing [Tutorials](https://github.com/secfigo/Awesome-Fuzzing#tutorials)
-- [ ] Violent Python and [Exploit Development](https://samsclass.info/127/127_WWC_2014.shtml)
-- [ ] Security Sift Windows Exploit Development:
-    - [part 1](http://www.securitysift.com/windows-exploit-development-part-1-basics/)
-        - basics
-    - [part 2](http://www.securitysift.com/windows-exploit-development-part-2-intro-stack-overflow/)
-        - introduction to stack overflow
-    - [part 3](http://www.securitysift.com/windows-exploit-development-part-3-changing-offsets-and-rebased-modules/)
-        - changing offsets and rebased modules
-    - [part 4](http://www.securitysift.com/windows-exploit-development-part-4-locating-shellcode-jumps/)
-        - locating shellcode jumps
-    - [part 5](http://www.securitysift.com/windows-exploit-development-part-5-locating-shellcode-egghunting)
-        - locating shellcode egghunting
-    - [part 6](http://www.securitysift.com/windows-exploit-development-part-6-seh-exploits)
-        - seh exploits
-    - [part 7](http://www.securitysift.com/windows-exploit-development-part-7-unicode-buffer-overflows)
-        - unicode buffer overflows
+- [ ] Exploit Exercises [VMs](https://exploit-exercises.com/)
+- [ ] Smash the Stack [Wargames](http://smashthestack.org/)
+- [ ] Youtube Playlist of various fuzzing [talks and presentations](https://www.youtube.com/playlist?list=PLtPrYlwXDImiO_hzK7npBi4eKQQBgygLD)
+- [ ] Browser bug hunting [Memoirs of a last man standing](https://vimeo.com/109380793)
+- [ ] Coverage-based Greybox [Fuzzing as Markov Chain](https://www.comp.nus.edu.sg/~mboehme/paper/CCS16.pdf)
+- [ ] Jumping into [exploit development](https://sneakerhax.com/jumping-into-exploit-development/)
+- [ ] Automating Exploitation on [Format String Vulnerabilities](https://github.com/PrateekJain90/ExploitingFormatStringVulnerabilities?platform=hootsuite)
+- [ ] LiveOverflow Youtube [channel](https://www.youtube.com/channel/UClcE-kVhqyiHCcjYwcpfj9w)
 
 ## Mobile Security Extended
 - [ ] OWASP Mobile Security [Testing Guide](https://github.com/OWASP/owasp-mstg)
 - [ ] Android Reverse Engineering 101:
-    - [part 1](http://www.fasteque.com/android-reverse-engineering-101-part-1/)
+    - [ ] [part 1](http://www.fasteque.com/android-reverse-engineering-101-part-1/)
         - APK and AAR format
-    - [part 2](http://www.fasteque.com/android-reverse-engineering-101-part-2/)
+    - [ ] [part 2](http://www.fasteque.com/android-reverse-engineering-101-part-2/)
         - aapt
-    - [part 3](http://www.fasteque.com/android-reverse-engineering-101-part-3/)
+    - [ ] [part 3](http://www.fasteque.com/android-reverse-engineering-101-part-3/)
         - dex2jar
-    - [part 4](http://www.fasteque.com/android-reverse-engineering-101-part-4/)
+    - [ ] [part 4](http://www.fasteque.com/android-reverse-engineering-101-part-4/)
         - apktool
-    - [part 5](http://www.fasteque.com/android-reverse-engineering-101-part-5/)
+    - [ ] [part 5](http://www.fasteque.com/android-reverse-engineering-101-part-5/)
         - Androguard
 
 ## Bug Bounty
@@ -252,10 +287,16 @@ You're never really done.
 - [ ] Vehicle Security [Awesome List](https://github.com/jaredmichaelsmith/awesome-vehicle-security)
 
 ## ETC
+- [ ] Fuzzing [Awesome List](https://github.com/secfigo/Awesome-Fuzzing#tutorials-and-blogs)
+- [ ] Advanced Penetration Testing [Course](https://www.cybrary.it/course/advanced-penetration-testing/)
 - [ ] Information Security [Reference](https://github.com/rmusser01/Infosec_Reference)
 - [ ] Android Security [Reference](https://github.com/doridori/Android-Security-Reference)
 - [ ] Windows Exploitation [Awesome List](https://github.com/enddo/awesome-windows-exploitation)
 - [ ] ISIS Labs [Hack Night](https://github.com/isislab/Hack-Night)
 - [ ] Penetration Testing / Security [Cheatsheets](https://github.com/jshaw87/Cheatsheets)
-- [ ] Awesome CTF [Reference](https://github.com/apsdehal/awesome-ctf)
-- [ ] Awesome Cyber Skills [Reference](https://github.com/joe-shenouda/awesome-cyber-skills)
+- [ ] CTF [Awesome List](https://github.com/apsdehal/awesome-ctf)
+- [ ] Cyber Skills [Awesome List](https://github.com/joe-shenouda/awesome-cyber-skills)
+- [ ] IT Security [Catalog](https://arthurgerkis.gitbooks.io/it-sec-catalog/content/)
+- [ ] Veracode's Defending the Cloud from a Full Stack Hack [Presentation](https://www.rsaconference.com/writable/presentations/file_upload/csv-w03-_defending-the-cloud-from-the-full-stack-hack.pdf)
+- [ ] DevSecOps [Awesome List](https://github.com/devsecops/awesome-devsecops)
+- [ ] Industrial Control Systems Security [Awesome List](https://github.com/hslatman/awesome-industrial-control-system-security)
