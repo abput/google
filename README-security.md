@@ -66,17 +66,17 @@
     - [Exploitation-1](https://vimeo.com/16298629)
     - [Exploitation-2](https://vimeo.com/16304711)
 - [ ] Offensive Computer Security:
-    - [part 1](https://youtu.be/F4WC26_SpKA)
+    - [ ] [part 1](https://youtu.be/F4WC26_SpKA)
         - Coverage of Fuzzing techniques for SDL, VR, and other applications.
-    - [part 2](https://youtu.be/kWmyGZsFc2c)
+    - [ ] [part 2](https://youtu.be/kWmyGZsFc2c)
         - Wrap up of fuzzing topics
-    - [part 3](https://youtu.be/1UzOTsvPYYg)
+    - [ ] [part 3](https://youtu.be/1UzOTsvPYYg)
         - beginning of the exploit development
-    - [part 4](https://youtu.be/jF1tQk270b0)
+    - [ ] [part 4](https://youtu.be/jF1tQk270b0)
         - Covering the very very basics of exploitation. Concept of ret2libc is covered, examples with basic exit() shellcode, and some position-independent basic shellcode.
-    - [part 5](https://youtu.be/lhAyUSM1hyA)
+    - [ ] [part 5](https://youtu.be/lhAyUSM1hyA)
         - Coverage of heap and format string exploition (with demos), as well as exploit mitigations (ASLR, NX/DEP, stack cookies, EMET, etc...)
-    - [part 6](https://youtu.be/JK0BsefRdJ0)
+    - [ ] [part 6](https://youtu.be/JK0BsefRdJ0)
         - vulnerability examples
 - [ ] OST - Introduction To Software Exploits
     - [videos](http://www.youtube.com/playlist?list=PL96AB65DFCE02EE3E)
@@ -136,8 +136,57 @@ You're never really done.
 
 ## Fuzzing and Exploitation Extended
 - [ ] Vulnerability Analysis [video](https://vimeo.com/49284329)
-- [ ] Corelan [Exploit writing tutorial](https://www.corelan.be/index.php/articles/)
-- [ ] Security Sift [Windows Exploit Development](http://www.securitysift.com/windows-exploit-development-part-1-basics/)
+- [ ] Corelan [Exploit writing tutorial](https://www.corelan.be/index.php/articles/):
+    - [ ] [part 1](https://www.corelan.be/index.php/2009/07/19/exploit-writing-tutorial-part-1-stack-based-overflows/)
+        - stack based overflows
+    - [ ] [part 2](https://www.corelan.be/index.php/2009/07/23/writing-buffer-overflow-exploits-a-quick-and-basic-tutorial-part-2/)
+        - writing buffer overflow exploits
+    - [ ] [part 3](https://www.corelan.be/index.php/2009/07/25/writing-buffer-overflow-exploits-a-quick-and-basic-tutorial-part-3-seh/)
+        - writing buffer overflow exploits (seh)
+    - [ ] [part 4](https://www.corelan.be/index.php/2009/07/28/seh-based-exploit-writing-tutorial-continued-just-another-example-part-3b/)
+        - seh based exploit writing
+    - [ ] [part 5](https://www.corelan.be/index.php/2009/08/12/exploit-writing-tutorials-part-4-from-exploit-to-metasploit-the-basics/)
+        - from exploit to metasploit (the basics)
+    - [ ] [part 6](https://www.corelan.be/index.php/2009/09/05/exploit-writing-tutorial-part-5-how-debugger-modules-plugins-can-speed-up-basic-exploit-development/)
+        - how debugger can speed up exploit development
+    - [ ] [part 7](https://www.corelan.be/index.php/2009/09/21/exploit-writing-tutorial-part-6-bypassing-stack-cookies-safeseh-hw-dep-and-aslr/)
+        - bypassing stack cookies
+    - [ ] [part 8](https://www.corelan.be/index.php/2009/11/06/exploit-writing-tutorial-part-7-unicode-from-0x00410041-to-calc/)
+        - unicode
+    - [ ] [part 9](https://www.corelan.be/index.php/2010/01/09/exploit-writing-tutorial-part-8-win32-egg-hunting/)
+        - win32 egg hunting
+    - [ ] [part 10](https://www.corelan.be/index.php/2010/02/25/exploit-writing-tutorial-part-9-introduction-to-win32-shellcoding/)
+        - introduction to win32 shellcoding
+    - [ ] [part 11](https://www.corelan.be/index.php/2010/06/16/exploit-writing-tutorial-part-10-chaining-dep-with-rop-the-rubikstm-cube/)
+        - chaining dep with rop
+    - [ ] [part 12](https://www.corelan.be/index.php/2011/12/31/exploit-writing-tutorial-part-11-heap-spraying-demystified/)
+        - heap spraying demystified
+    - [ ] [part 13](https://www.corelan.be/index.php/2010/01/26/starting-to-write-immunity-debugger-pycommands-my-cheatsheet/)
+        - introduction to immunity debugger
+    - [ ] [part 14](https://www.corelan.be/index.php/2010/03/22/ken-ward-zipper-exploit-write-up-on-abysssec-com/)
+        - zipper exploit write up
+    - [ ] [part 15](https://www.corelan.be/index.php/2010/03/27/exploiting-ken-ward-zipper-taking-advantage-of-payload-conversion/)
+        - exploiting zipper using payload conversion
+    - [ ] [part 16](https://www.corelan.be/index.php/2011/01/30/hack-notes-rop-retnoffset-and-impact-on-stack-setup/)
+        - return offset and impact on stack setup
+    - [ ] [part 17](https://www.corelan.be/index.php/2011/05/12/hack-notes-ropping-eggs-for-breakfast/)
+        - ropping eggs for breakfast
+    - [ ] [part 18](https://www.corelan.be/index.php/2011/07/03/universal-depaslr-bypass-with-msvcr71-dll-and-mona-py/)
+        - universal dep aslr bypass
+    - [ ] [part 19](https://www.corelan.be/index.php/2011/11/18/wow64-egghunter/)
+        - wow 64 egghunter
+    - [ ] [part 20](https://www.corelan.be/index.php/2012/02/29/debugging-fun-putting-a-process-to-sleep/)
+        - debugging fun - putting a process to sleep
+    - [ ] [part 21](https://www.corelan.be/index.php/2012/12/31/jingle-bofs-jingle-rops-sploiting-all-the-things-with-mona-v2/)
+        - sploiting all the things with mona
+    - [ ] [part 22](https://www.corelan.be/index.php/2013/02/26/root-cause-analysis-memory-corruption-vulnerabilities/)
+        - root cause analysis memory corruption vulnerabilities
+    - [ ] [part 23](https://www.corelan.be/index.php/2013/01/18/heap-layout-visualization-with-mona-py-and-windbg/)
+        - heap layout visualization with mona
+    - [ ] [part 24](https://www.corelan.be/index.php/2013/02/19/deps-precise-heap-spray-on-firefox-and-ie10/)
+        - heap spray on firefox and ie10
+    - [ ] [part 25](https://www.corelan.be/index.php/2013/07/02/root-cause-analysis-integer-overflows/)
+        - root cause analysis integer overflow
 - [ ] fuzzysecurity [Tutorial Series](http://www.fuzzysecurity.com/tutorials.html)
 - [ ] IT Security Catalog [PDF List](https://www.gitbook.com/download/pdf/book/arthurgerkis/it-sec-catalog)
 - [ ] Exploit Exercises [VMs](https://exploit-exercises.com/)
@@ -154,6 +203,21 @@ You're never really done.
 - [ ] Awesome Fuzzing [Youtube Playlist](https://www.youtube.com/playlist?list=PLtPrYlwXDImiO_hzK7npBi4eKQQBgygLD)
 - [ ] Fuzzing [Tutorials](https://github.com/secfigo/Awesome-Fuzzing#tutorials)
 - [ ] Violent Python and [Exploit Development](https://samsclass.info/127/127_WWC_2014.shtml)
+- [ ] Security Sift Windows Exploit Development:
+    - [part 1](http://www.securitysift.com/windows-exploit-development-part-1-basics/)
+        - basics
+    - [part 2](http://www.securitysift.com/windows-exploit-development-part-2-intro-stack-overflow/)
+        - introduction to stack overflow
+    - [part 3](http://www.securitysift.com/windows-exploit-development-part-3-changing-offsets-and-rebased-modules/)
+        - changing offsets and rebased modules
+    - [part 4](http://www.securitysift.com/windows-exploit-development-part-4-locating-shellcode-jumps/)
+        - locating shellcode jumps
+    - [part 5](http://www.securitysift.com/windows-exploit-development-part-5-locating-shellcode-egghunting)
+        - locating shellcode egghunting
+    - [part 6](http://www.securitysift.com/windows-exploit-development-part-6-seh-exploits)
+        - seh exploits
+    - [part 7](http://www.securitysift.com/windows-exploit-development-part-7-unicode-buffer-overflows)
+        - unicode buffer overflows
 
 ## Mobile Security Extended
 - [ ] OWASP Mobile Security [Testing Guide](https://github.com/OWASP/owasp-mstg)
@@ -193,3 +257,5 @@ You're never really done.
 - [ ] Windows Exploitation [Awesome List](https://github.com/enddo/awesome-windows-exploitation)
 - [ ] ISIS Labs [Hack Night](https://github.com/isislab/Hack-Night)
 - [ ] Penetration Testing / Security [Cheatsheets](https://github.com/jshaw87/Cheatsheets)
+- [ ] Awesome CTF [Reference](https://github.com/apsdehal/awesome-ctf)
+- [ ] Awesome Cyber Skills [Reference](https://github.com/joe-shenouda/awesome-cyber-skills)
