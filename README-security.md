@@ -11,9 +11,9 @@
 
 - [Reverse Engineering Extended](#reverse-engineering-extended)
 - [Fuzzing and Exploitation Extended](#fuzzing-and-exploitation-extended)
+- [Mobile Security Extended](#mobile-security-extended)
 - [Bug Bounty](#bug-bounty)
 - [Internet of Things](#internet-of-things)
-- [Mobile Security Extended](#mobile-security-extended)
 - [ETC](#etc)
 
 ---
@@ -154,7 +154,20 @@ You're never really done.
 - [ ] Awesome Fuzzing [Youtube Playlist](https://www.youtube.com/playlist?list=PLtPrYlwXDImiO_hzK7npBi4eKQQBgygLD)
 - [ ] Fuzzing [Tutorials](https://github.com/secfigo/Awesome-Fuzzing#tutorials)
 - [ ] Violent Python and [Exploit Development](https://samsclass.info/127/127_WWC_2014.shtml)
-- [ ] Windows Exploitation [Awesome List](https://github.com/enddo/awesome-windows-exploitation)
+
+## Mobile Security Extended
+- [ ] OWASP Mobile Security [Testing Guide](https://github.com/OWASP/owasp-mstg)
+- [ ] Android Reverse Engineering 101:
+    - [part 1](http://www.fasteque.com/android-reverse-engineering-101-part-1/)
+        - APK and AAR format
+    - [part 2](http://www.fasteque.com/android-reverse-engineering-101-part-2/)
+        - aapt
+    - [part 3](http://www.fasteque.com/android-reverse-engineering-101-part-3/)
+        - dex2jar
+    - [part 4](http://www.fasteque.com/android-reverse-engineering-101-part-4/)
+        - apktool
+    - [part 5](http://www.fasteque.com/android-reverse-engineering-101-part-5/)
+        - Androguard
 
 ## Bug Bounty
 - [ ] Getting Started
@@ -174,8 +187,9 @@ You're never really done.
 - [ ] IoT [Awesome List](https://github.com/nebgnahz/awesome-iot-hacks)
 - [ ] Vehicle Security [Awesome List](https://github.com/jaredmichaelsmith/awesome-vehicle-security)
 
-## Mobile Security Extended
-- [ ] Android Security [Awesome List](https://github.com/ashishb/android-security-awesome)
-
 ## ETC
 - [ ] Information Security [Reference](https://github.com/rmusser01/Infosec_Reference)
+- [ ] Android Security [Reference](https://github.com/doridori/Android-Security-Reference)
+- [ ] Windows Exploitation [Awesome List](https://github.com/enddo/awesome-windows-exploitation)
+- [ ] ISIS Labs [Hack Night](https://github.com/isislab/Hack-Night)
+- [ ] Penetration Testing / Security [Cheatsheets](https://github.com/jshaw87/Cheatsheets)
