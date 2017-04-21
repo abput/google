@@ -285,13 +285,18 @@ You're never really done.
 ## Internet of Things
 - [ ] IoT [Awesome List](https://github.com/nebgnahz/awesome-iot-hacks)
 - [ ] Vehicle Security [Awesome List](https://github.com/jaredmichaelsmith/awesome-vehicle-security)
+- [ ] Vehicle Security [Awesome List](https://github.com/jaredthecoder/awesome-vehicle-security)
 
 ## ETC
+- [ ] Security Talks [Awesome List](https://github.com/PaulSec/awesome-sec-talks)
+- [ ] Security List Collection [Awesome List](https://github.com/danielmiessler/SecLists)
 - [ ] Fuzzing [Awesome List](https://github.com/secfigo/Awesome-Fuzzing#tutorials-and-blogs)
 - [ ] Advanced Penetration Testing [Course](https://www.cybrary.it/course/advanced-penetration-testing/)
 - [ ] Information Security [Reference](https://github.com/rmusser01/Infosec_Reference)
 - [ ] Android Security [Reference](https://github.com/doridori/Android-Security-Reference)
 - [ ] Windows Exploitation [Awesome List](https://github.com/enddo/awesome-windows-exploitation)
+- [ ] Linux Kernel Exploitation [Reference](https://github.com/xairy/linux-kernel-exploitation)
+- [ ] Machine Learning for CyberSecurity [Awesome List](https://github.com/jivoi/awesome-ml-for-cybersecurity)
 - [ ] ISIS Labs [Hack Night](https://github.com/isislab/Hack-Night)
 - [ ] Penetration Testing / Security [Cheatsheets](https://github.com/jshaw87/Cheatsheets)
 - [ ] CTF [Awesome List](https://github.com/apsdehal/awesome-ctf)
@@ -300,3 +305,8 @@ You're never really done.
 - [ ] Veracode's Defending the Cloud from a Full Stack Hack [Presentation](https://www.rsaconference.com/writable/presentations/file_upload/csv-w03-_defending-the-cloud-from-the-full-stack-hack.pdf)
 - [ ] DevSecOps [Awesome List](https://github.com/devsecops/awesome-devsecops)
 - [ ] Industrial Control Systems Security [Awesome List](https://github.com/hslatman/awesome-industrial-control-system-security)
+- [ ] Malware Analysis [Awesome List](https://github.com/rshipp/awesome-malware-analysis)
+- [ ] OSINT [Awesome List](https://github.com/jivoi/awesome-osint)
+- [ ] Penetration Testing [Awesome List](https://github.com/enaqx/awesome-pentest)
+- [ ] Reversing [Awesome List](https://github.com/fdivrp/awesome-reversing)
+- [ ] Threat Intelligence [Awesome List](https://github.com/hslatman/awesome-threat-intelligence)
