@@ -53,9 +53,6 @@
 - [ ] OST - Reverse Engineering Malware
     - [videos](https://www.youtube.com/playlist?list=PLUFkSN0XLZ-kwukmQOAgCZ08C5REoZElt)
     - [slides](http://opensecuritytraining.info/ReverseEngineeringMalware_files/malware_analysis_all_materials_2014-09-08_1.zip)
-- [ ] OST - Intermediate Intel x86
-    - [videos](http://www.youtube.com/playlist?list=PL8F8D45D6C1FFD177)
-    - [slides](http://opensecuritytraining.info/ReverseEngineeringMalware_files/malware_analysis_all_materials_2014-09-08_1.zip)
 - [ ] RPISEC - [Malware Analysis](https://github.com/RPISEC/Malware)
 
 ## Fuzzing and Exploitation
@@ -117,6 +114,9 @@ You're never really done.
 ---
 ## Reverse Engineering Extended
 - [ ] Windows Internals [video](https://vimeo.com/49347561)
+- [ ] OST - Intermediate Intel x86
+    - [videos](http://www.youtube.com/playlist?list=PL8F8D45D6C1FFD177)
+    - [slides](http://opensecuritytraining.info/ReverseEngineeringMalware_files/malware_analysis_all_materials_2014-09-08_1.zip)
 - [ ] OST - Rootkits
     - [videos](http://www.youtube.com/playlist?list=PLF58FB7BCB20ED11A)
     - [slides](http://opensecuritytraining.info/Rootkits_files/all_materials_with_ppt_1.zip)
