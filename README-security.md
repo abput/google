@@ -125,7 +125,6 @@ You're never really done.
     - [rootkit detectors](http://opensecuritytraining.info/Rootkits_files/%20%20DETECTION-notinfected_1.zip)
         - Password = “notinfected”, but my AV doesn’t like flister, so yours might not either.
 - [ ] OST - The Adventures of a Keystroke
-    - [videos](https://www.youtube.com/playlist?list=PLUFkSN0XLZ-kwukmQOAgCZ08C5REoZElt)
     - [slides](http://opensecuritytraining.info/Keylogging_files/TheAdvernturesOfAKeystroke.pptx)
     - [etc](http://opensecuritytraining.info/Keylogging_files/Materials.rar)
         - RAR file of some applications and sample keyloggers. Password is “infected”
