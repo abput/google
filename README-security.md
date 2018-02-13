@@ -47,7 +47,7 @@
 - [X] OST - Life of Binaries
     - [videos](https://www.youtube.com/playlist?list=PLUFkSN0XLZ-n_Na6jwqopTt1Ki57vMIc3)
     - [slides](http://opensecuritytraining.info/LifeOfBinaries_files/2012_LoB_all_1.zip)
-- [ ] OST - Malware Dynamic Analysis
+- [ ] OST - Malware Dynamic Analysis ( Very Bad Audio Quality )
     - [videos](https://www.youtube.com/playlist?list=PLUFkSN0XLZ-kqYbGpY4Gt_VATd4ytQg-Z)
     - [slides](http://opensecuritytraining.info/MalwareDynamicAnalysis_files/MalwareDynamicAnalysis_All_PPT_20140918_1.zip)
 - [ ] OST - Reverse Engineering Malware
