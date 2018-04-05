@@ -50,7 +50,7 @@
 - [ ] OST - Malware Dynamic Analysis ( Very Bad Audio Quality )
     - [videos](https://www.youtube.com/playlist?list=PLUFkSN0XLZ-kqYbGpY4Gt_VATd4ytQg-Z)
     - [slides](http://opensecuritytraining.info/MalwareDynamicAnalysis_files/MalwareDynamicAnalysis_All_PPT_20140918_1.zip)
-- [ ] OST - Reverse Engineering Malware
+- [X] OST - Reverse Engineering Malware
     - [videos](https://www.youtube.com/playlist?list=PLUFkSN0XLZ-kwukmQOAgCZ08C5REoZElt)
     - [slides](http://opensecuritytraining.info/ReverseEngineeringMalware_files/malware_analysis_all_materials_2014-09-08_1.zip)
 - [ ] RPISEC - [Malware Analysis](https://github.com/RPISEC/Malware)
